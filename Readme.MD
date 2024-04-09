@@ -25,9 +25,9 @@ This repository aims to provide examples and templates for common data cleaning 
 ## Usage
 
 1. Clone the repository to your local machine:
-```bash
-    https://github.com/Pardhu-Guttula/Data_Cleaning.git
-```
+    ```bash
+        https://github.com/Pardhu-Guttula/Data_Cleaning.git
+    ```
 2. Explore the scripts and notebooks in the repository to understand different data cleaning techniques and apply them to your own datasets.
 
 ## Scripts
